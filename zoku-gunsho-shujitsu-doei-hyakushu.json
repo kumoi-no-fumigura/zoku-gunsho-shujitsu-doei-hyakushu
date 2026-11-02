@@ -1675,6 +1675,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 12,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-shujitsu-doei-hyakushu",
   "work": "秋日同詠百首和歌（飛鳥井雅親）",
@@ -1687,7 +1691,7 @@
   "blocks": 12,
   "chars": 2831,
   "poems": 100,
-  "yaku": 0,
+  "yaku": 12,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T09:54:08+09:00"
